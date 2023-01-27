@@ -4,7 +4,8 @@
   "description": "A website to put things on.",
   "main": "index.js",
   "scripts": {
-    "test": "funny"
+    "test": "funny",
+    "build": "echo 'build script executed'"
   },
   "repository": {
     "type": "git",
