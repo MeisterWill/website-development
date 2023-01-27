@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "funny",
-    "build": "echo 'build script executed'"
+    "build": "firebase deploy"
   },
   "repository": {
     "type": "git",
