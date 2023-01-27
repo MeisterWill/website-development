@@ -1,0 +1,20 @@
+{
+  "name": "website-development",
+  "version": "1.0.0",
+  "description": "A website to put things on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "funny",
+    "build": "firebase deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeisterWill/website-development.git"
+  },
+  "author": "Bielak, McFarland, Meister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeisterWill/website-development/issues"
+  },
+  "homepage": "https://github.com/MeisterWill/website-development#readme"
+}
