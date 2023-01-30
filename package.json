@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MeisterWill/website-development/issues"
   },
-  "homepage": "https://github.com/MeisterWill/website-development#readme"
+  "homepage": "https://github.com/MeisterWill/website-development#readme",
+  "dependencies": {
+    "firebase": "^9.16.0"
+  }
 }
